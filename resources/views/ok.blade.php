@@ -1,0 +1,1 @@
+<h1>ok outside view folder</h1>
